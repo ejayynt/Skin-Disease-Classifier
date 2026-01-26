@@ -29,14 +29,15 @@ Early detection of skin diseases is crucial for effective treatment. This projec
 - Streamlit
 
 ## Project Structure
+```bash
 skin-disease-classifier/
 │
 ├── UI.py                    # Streamlit application
 ├── Skin detection.ipynb     # Model training and experiments
 ├── skin_disease_model.h5    # Trained CNN model
 ├── requirements.txt         # Dependencies
-├── README.md                # Project documentation
-
+└── README.md                # Project documentation
+```
 
 ## How It Works
 1. The user uploads a skin image through the Streamlit interface  
