@@ -1,4 +1,4 @@
-# 🧴 Skin Disease Classifier
+# Skin Disease Classifier
 
 A deep learning–based skin disease classification system using convolutional neural networks (CNNs) and a Streamlit web application. This project demonstrates how computer vision and artificial intelligence can be applied in the healthcare domain for educational and research purposes.
 
